@@ -19,6 +19,8 @@ Whether you are a CAD designer, 3D printing enthusiast, or embedded systems engi
 ---
 
 ## 💎 Current Module: Arc Reactor
+<img width="1344" height="745" alt="image" src="https://github.com/user-attachments/assets/8e4450a4-7a7e-4656-9846-61c3117f957d" />
+
 
 This is the foundational component of the suit. The current model is built with high fidelity, optimization for 3D printing, and internal routing spaces for potential electronics/LED integration.
 
